@@ -22,7 +22,7 @@ def find_genes(dna_sequence):
     
     return genes
 
-# Таблица кодонов для трансляции
+# Codon table for translation
 codon_table = {
    "ATA": "I", "ATC": "I", "ATT": "I", "ATG": "M",
     "ACA": "T", "ACC": "T", "ACG": "T", "ACT": "T",
@@ -49,7 +49,7 @@ def translate_gene(dna_gene):
 def read_dna_from_file():
     root = tk.Tk()
     root.withdraw()
-    filename = filedialog.askopenfilename(title="Выберите файл с ДНК", filetypes=[("Text Files", "*.txt")])
+    filename = filedialog.askopenfilename(title="Select DNA file", filetypes=[("Text Files", "*.txt")])
     if not filename:
         return None
     with open(filename, "r") as file:
@@ -57,12 +57,12 @@ def read_dna_from_file():
     return dna_sequence
 
 def save_proteins_to_file(proteins):
-    unique_proteins = {protein for protein in proteins if len(protein) >= 50}  # Фильтр по длине
+    unique_proteins = {protein for protein in proteins if len(protein) >= 50}  # Filter by length
     filename = "proteins_filtered.txt"
     with open(filename, "w") as file:
         for i, protein in enumerate(unique_proteins):
             file.write(f">Protein_{i+1}\n{protein}\n")
-    print(f"Найдено {len(unique_proteins)} уникальных белков длиной >= 50 аминокислот. Они сохранены в {filename}.")
+    print(f"Found {len(unique_proteins)} unique proteins with length >= 50 amino acids. They have been saved to {filename}.")
 
 dna_sequence = read_dna_from_file()
 if dna_sequence:
@@ -70,4 +70,4 @@ if dna_sequence:
     proteins = [translate_gene(gene_seq) for _, _, gene_seq in genes]
     save_proteins_to_file(proteins)
 else:
-    print("Файл не был выбран.")
+    print("No file was selected.")
