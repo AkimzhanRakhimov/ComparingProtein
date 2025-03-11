@@ -1,0 +1,51 @@
+Name	Similarity (%)	Alignment length	E-value
+ homoserine kinase [Escherichia coli O10 str. Bi8337-41]	100.00%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli 88817 (10j)]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia sp. TC-EC600-tetX4]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
+ homoserine kinase [Escherichia coli]	99.35%	310	0.0
+ homoserine kinase [Escherichia coli]	99.68%	310	0.0
