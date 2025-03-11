@@ -40,7 +40,9 @@ pip install requests biopython
 1. **Start the Script**: Run the `protein_parser.py` script.
 2. **Select DNA File**: A file dialog will prompt you to select a text file containing the DNA sequence.
 3. **Output**: The tool will extract genes, translate them into proteins, and save proteins with a length greater than or equal to 50 amino acids in a file called `proteins_filtered.txt`.
+
 ![alt text](https://github.com/AkimzhanRakhimov/ComparingProtein/blob/main/1.png)
+
 ### Step 2: Run BLAST Analysis
 1. **Start the Script**: Run the `blast_analysis.py` script.
 2. **Input**: Enter the number of protein sequences to analyze (from the `proteins_filtered.txt` file generated in Step 1).
